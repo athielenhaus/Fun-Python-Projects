@@ -30,7 +30,7 @@ This repo contains a number of Python projects I developed as part of a Udemy co
 - The program asks the user to which date in the past the user would like to travel
 - The program opens a webpage with the top 100 billboard for the specified date and scrapes it using BeautifulSoup
 - The program extracts the artists and song titles from the scraped data and uses them to search Spotify for song tracks, using the Spotipy API
-- The program creates a new playlist in the user's account and adds the identified song tracks
+- The program creates a new playlist in the user's Spotify account and adds the identified song tracks
 
 ## Cheap Flight Club
 - Uses Sheety, Twilio and Tequila APIs. 
